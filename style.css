@@ -1,0 +1,70 @@
+.child{
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: orange;
+    margin: 5px;    
+    padding: 10px;
+    font-size: 2em;
+    padding: 10px;
+
+    
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-color: rgb(138, 91, 91);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(90deg, rgba(138,91,91,1) 0%, rgba(0,212,255,1) 100%);
+    font-size: 2em; 
+}
+
+.tagA{
+    color: rgb(7, 0, 0);
+    
+    
+
+
+
+}
+
+.tagC{
+    color: rgb(19, 17, 17);
+    align-items: center;
+    background-color: rgb(219, 51, 51);
+
+
+
+
+}
+
+.classtagT{
+    color: rgb(11, 7, 236);
+    font-family: "arial";
+
+}
+
+#container1{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+
+}
+#container2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+   
+}
+#container3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
